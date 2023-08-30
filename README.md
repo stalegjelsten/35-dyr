@@ -1,6 +1,6 @@
 # 35-dyr
 
-Lenke til nettstedet: [stalegjelsten.github.io/35-dyr](stalegjelsten.github.io/35-dyr)
+Lenke til nettstedet: [stalegjelsten.github.io/35-dyr](https://stalegjelsten.github.io/35-dyr)
 
 ## Lenker
 Jeg har lenket til de andre dyrene ved å bruke `<a href="FILNVAVN.html">`. Siden alle .html filene ligger i samme mappe så går det fint.
